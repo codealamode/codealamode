@@ -9,11 +9,15 @@ If I had to describe myself, I'd say that...
 - I'm a people person.  In my world, there are no strangers - just friends I haven't met yet!
 - I've got a background including logistics, education, sales, and food service.  I believe that a jack of all trades is oftentimes better than a master of one.
 
+
 See some of my work!
 
 codealamode.github.io
 
+
+
 Get in contact with me!
 
 reidharris01@gmail.com
+
 https://www.linkedin.com/in/reidharris/
