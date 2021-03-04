@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**codealamode/codealamode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Thanks for visiting my github profile!  On git, I go by CodeALaMode, but my real name is Reid.  😁
 
 If I had to describe myself, I'd say that...
