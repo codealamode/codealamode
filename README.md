@@ -7,7 +7,7 @@ If I had to describe myself, I'd say that...
 - I'm a language aficionado, and I love to learn about pretty much anything.
 - I prefer cookie dough over a baked cookie any day of the week.
 - I'm a people person.  In my world, there are no strangers - just friends I haven't met yet!
-- I've got a background including logistics, education, talent (acting/modeling), sales, and food service.  I believe that a jack of all trades is oftentimes better than a master of one.
+- I've got a background including logistics, education, talent (acting/modeling), and data science.  I believe that a jack of all trades is oftentimes better than a master of one.
 
 
 See some of my work!
